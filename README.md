@@ -1,2 +1,1 @@
-systum
-orm 
+mini project using prisma orm
